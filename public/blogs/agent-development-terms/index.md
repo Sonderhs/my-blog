@@ -27,7 +27,7 @@ AI Agent开发中常见的名词：
   6. AI 收到移动完成的进度后，返回总结内容给智能体。
   7. 智能体收到 AI 传来的结果后，向用户报告结果。这样一步步推进，智能体agent全程协调，直到任务完成。
 
-![](blob:https://my-blog-five-zeta-57.vercel.app/b2ab7bcc-afa6-41bd-b77b-4661ae7de1bb)
+![](blob:https://my-blog-five-zeta-57.vercel.app/e04dcb61-a2ba-4fc4-9f4f-13c01d10c871)
 
 * Agent：在AI、工具、用户间协调的程序
 * Tool：提供给 AI 调用的函数。
@@ -81,4 +81,4 @@ AI Agent开发中常见的名词：
 
 ## 8. Agent完整协作流程
 * Agent完整协作流程图如下所示：
-  ![](blob:https://my-blog-five-zeta-57.vercel.app/a50ac68a-a034-4af8-a164-402bd61e9ba6)
+  ![](blob:https://my-blog-five-zeta-57.vercel.app/3b221794-4bf7-4b47-8ffa-0ccdd62d6f8f)
